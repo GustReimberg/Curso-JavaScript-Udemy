@@ -5,7 +5,7 @@ function Cachorro(raca,pata,cor){
 }
 
 Cachorro.prototype.uivar = function(){
-    console.log("Auuuuu");
+    console.log("Auuuuu")
 }
 
 Cachorro.prototype.latir = function(){
